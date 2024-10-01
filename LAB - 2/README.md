@@ -1,7 +1,4 @@
 # Implémentation d'un réseau virtuel (VNet) sur Azure
-
-Ce guide décrit en détail comment créer et configurer un **réseau virtuel (VNet)** sur Azure, avec plusieurs sous-réseaux, des **Groupes de Sécurité Réseau (NSG)**, des **machines virtuelles (VMs)** dans des sous-réseaux spécifiques, et la configuration du **peering entre deux VNets**.
-
 ---
 
 ## Prérequis
