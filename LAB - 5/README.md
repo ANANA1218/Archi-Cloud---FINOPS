@@ -25,21 +25,21 @@
    - Allez dans **Bases de données SQL**, cliquez sur **Créer**.
    - Remplissez les informations requises.
 
-   ![Créer une base de données SQL](images/creer-base-de-donnees-sql.png)
+![alt text](<création de la base de données.png>)
 
 2. **Configurer les paramètres de pare-feu pour permettre l'accès aux clients** :
    - Dans les paramètres de la base de données, ajoutez les adresses IP autorisées.
-
-   ![Configurer pare-feu](images/configurer-pare-feu.png)
+   
+![alt text](image.png)
 
 3. **Importer des données dans la base de données** :
    - Utilisez l'outil **Azure Data Studio** ou **SQL Server Management Studio** pour importer vos données.
 
-   ![Importer des données](images/importer-donnees.png)
+
 
 4. **Mettre en œuvre la géo-réplication pour la haute disponibilité** :
    - Dans les paramètres de la base de données, activez la géo-réplication.
 
-   ![Géo-réplication](images/geo-replication.png)
+
 
 ---
