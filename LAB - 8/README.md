@@ -41,5 +41,6 @@ pip install requests
 4. **Surveiller l'utilisation de l'API et gérer les clés** :
    - Vérifiez l'utilisation dans le portail et gérez vos clés API.
 ![alt text](<gere les cles.png>)
+![alt text](image-2.png)
 
 ---
