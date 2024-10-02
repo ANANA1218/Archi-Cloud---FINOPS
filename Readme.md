@@ -12,7 +12,7 @@ Ce document présente les labs effectués sur Azure, incluant la configuration d
 6. [Lab 6 : Configuration d'Azure Active Directory (Azure AD)](#lab-6)
 7. [Lab 7 : Mise en œuvre des fonctions Azure](#lab-7)
 8. [Lab 8 : Utilisation des services cognitifs Azure](#lab-8)
-
+9. [Lab 8 : Mise en œuvre de l'équilibreur de charge Azure et du Traffic Manager](#lab-9)
 ---
 
 ## Lab 1 : Connexion et configuration des machines virtuelles (VM)
@@ -99,5 +99,15 @@ Ce document présente les labs effectués sur Azure, incluant la configuration d
 3. **Tester l'application pour traduire du texte**.
 4. **Surveiller l'utilisation de l'API et gérer les clés d'accès**.
 
+
+---
+## Lab 9 : Mise en œuvre de l'équilibreur de charge Azure et du Traffic Manager
+
+### Étapes
+
+1. **Déployer un équilibreur de charge Azure pour distribuer le trafic entre les VMs**.
+2. **Configurer les sondes de santé et les règles de répartition de charge**.
+3. **Configurer Azure Traffic Manager pour le routage du trafic basé sur DNS**.
+4. **Tester les scénarios de basculement**.
 
 ---
