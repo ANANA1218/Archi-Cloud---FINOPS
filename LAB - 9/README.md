@@ -30,12 +30,12 @@
 2. **Configurer les sondes de santé et les règles de répartition de charge** :
    - Définissez des sondes de santé pour surveiller l'état des VMs.
 
-
+![alt text](<sonde d'integrité(probes).png>)
 
 3. **Configurer Azure Traffic Manager pour le routage du trafic basé sur DNS** :
    - Créez une ressource **Traffic Manager** et configurez les profils.
 
-
+![alt text](<ajout de point de terminaison dans mon trafic manager.png>)
 
 4. **Tester les scénarios de basculement** :
    - Simulez des échecs pour vérifier le comportement de l'équilibreur de charge.
