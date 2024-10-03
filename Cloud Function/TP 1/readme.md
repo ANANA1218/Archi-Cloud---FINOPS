@@ -13,3 +13,4 @@ TP 1 : Déployer une fonction Azure simple déclenchée par HTTP
 - Choisissez "Déclencheur HTTP" comme modèle.
 
 https://cloud-an.azurewebsites.net/
+
