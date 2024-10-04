@@ -13,6 +13,11 @@ Ce document présente les labs effectués sur Azure, incluant la configuration d
 7. [Lab 7 : Mise en œuvre des fonctions Azure](#lab-7)
 8. [Lab 8 : Utilisation des services cognitifs Azure](#lab-8)
 9. [Lab 8 : Mise en œuvre de l'équilibreur de charge Azure et du Traffic Manager](#lab-9)
+10. [Lab 10 : Configuration de la sauvegarde Azure et des services de récupération](#lab-10)
+11. [Lab 11 : Mise en œuvre de la surveillance et des alertes Azure](#lab-11)
+12. [Lab 12 : Utilisation des modèles Azure Resource Manager (ARM)](#lab-12)
+13. [Lab 13 : Mise en œuvre d'Azure Key Vault](#lab-13)
+
 ---
 
 ## Lab 1 : Connexion et configuration des machines virtuelles (VM)
@@ -109,5 +114,48 @@ Ce document présente les labs effectués sur Azure, incluant la configuration d
 2. **Configurer les sondes de santé et les règles de répartition de charge**.
 3. **Configurer Azure Traffic Manager pour le routage du trafic basé sur DNS**.
 4. **Tester les scénarios de basculement**.
+
+---
+## Lab 10 : Configuration de la sauvegarde Azure et des services de récupération
+
+### Étapes
+
+1. **Créer un coffre de services de récupération**
+2. **Configurer la sauvegarde pour les VMs et Azure Files**
+3. **Effectuer une opération de sauvegarde et de restauration**
+4. **Mettre en œuvre des politiques de sauvegarde et de rétention**
+
+---
+## Lab 11 : Mise en œuvre de la surveillance et des alertes Azure
+
+### Étapes
+
+1. **Configurer Azure Monitor pour collecter les métriques et les journaux**
+2. **Créer des alertes basées sur les métriques des ressources**
+3. **Visualiser les données à l'aide des tableaux de bord Azure**
+4. **Mettre en œuvre des groupes d'action pour les notifications d'alerte** 
+
+---
+
+## Lab 12 : Utilisation des modèles Azure Resource Manager (ARM)
+
+### Étapes
+
+1. **Écrire un modèle ARM pour déployer une application multi-niveaux**
+2. **Paramétrer le modèle pour la réutilisabilité** 
+3. **Déployer des ressources en utilisant le modèle via Azure CLI**
+4. **Valider et résoudre les problèmes de déploiement**
+
+---
+
+## Lab 12 : Mise en œuvre d'Azure Key Vault
+
+### Étapes
+
+1. **Créer un Azure Key Vault**
+2. **Stocker et récupérer des secrets, clés et certificats** 
+3. **Intégrer Key Vault avec une application pour la gestion des secrets**
+4. **Configurer des politiques d'accès et de surveillance**
+5. **Utiliser une de vos clés dans une application** 
 
 ---
