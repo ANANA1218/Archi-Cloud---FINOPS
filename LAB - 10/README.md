@@ -11,10 +11,10 @@
 
 ## Table des matières
 
-1. Créer un coffre de services de récupération
-2. Configurer la sauvegarde pour les VMs et Azure Files
-3. Effectuer une opération de sauvegarde et de restauration
-4. Mettre en œuvre des politiques de sauvegarde et de rétention
+1. **Créer un coffre de services de récupération**
+2. **Configurer la sauvegarde pour les VMs et Azure Files**
+3. **Effectuer une opération de sauvegarde et de restauration**
+4. **Mettre en œuvre des politiques de sauvegarde et de rétention**
 ---
 
 

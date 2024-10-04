@@ -14,6 +14,13 @@ Ce guide décrit les étapes pour :
 ![alt text](<creation de la vm pt2.png>)
 ---
 
+## Table des matières
+
+1. **Connexion à la VM**
+2. **Prendre un instantané (snapshot) via le Portail Azure**
+3. **Mettre en œuvre des groupes d'action pour les notifications d'alerte**
+
+
 ## Étape 1 : Connexion à la VM
 
 ### Connexion à une VM Linux (via SSH)
@@ -32,24 +39,7 @@ Ce guide décrit les étapes pour :
 ![alt text](<Connexion à la machine vituelle.png>)
 ---
 
-## Étape 2 : Installation de logiciels
-
-### Installation sur une VM Linux
-
-1. **Mettre à jour les paquets** du système :
- 
-     ```bash
-     sudo apt update && sudo apt upgrade -y
-     ```
-  
-2. **Installer un logiciel** (par exemple Apache pour un serveur web) :
-     ```bash
-     sudo apt install apache2 -y
-     ```
-     ![alt text](installation.png)
----
-
-## Étape 3 : Prendre un instantané (snapshot) via le Portail Azure
+## Étape 2 : Prendre un instantané (snapshot) via le Portail Azure
 
 1. Accédez au **Portail Azure** : [https://portal.azure.com](https://portal.azure.com)
 2. **Accédez à votre machine virtuelle** :
@@ -68,7 +58,7 @@ Ce guide décrit les étapes pour :
 ![alt text](<creation du snapshot pt 2.png>)
 ---
 
-## Étape 4 : Redémarrer la VM
+## Étape 3 : Redémarrer la VM
 
 Après avoir pris l'instantané, vous pouvez redémarrer la VM :
 

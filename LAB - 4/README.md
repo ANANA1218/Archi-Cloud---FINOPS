@@ -13,10 +13,10 @@
 
 ## Table des matières
 
-1. Créer un compte de stockage avec différentes options de réplication
-2. Télécharger et gérer des blobs via le portail Azure et Azure CLI
-3. Configurer des signatures d'accès partagé (SAS) pour un accès sécurisé
-4. Mettre en œuvre des politiques de gestion du cycle de vie
+1. **Créer un compte de stockage avec différentes options de réplication**
+2. **Télécharger et gérer des blobs via le portail Azure et Azure CLI**
+3. **Configurer des signatures d'accès partagé (SAS) pour un accès sécurisé**
+4. **Mettre en œuvre des politiques de gestion du cycle de vie**
 
 ---
 

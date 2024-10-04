@@ -12,10 +12,10 @@
 
 ## Table des matières
 
-1. Déployer une instance de base de données Azure SQL
-2. Configurer les paramètres de pare-feu pour permettre l'accès aux clients
-3. Importer des données dans la base de données
-4. Mettre en œuvre la géo-réplication pour la haute disponibilité
+1. **Déployer une instance de base de données Azure SQL**
+2. **Configurer les paramètres de pare-feu pour permettre l'accès aux clients**
+3. **Importer des données dans la base de données**
+4. **Mettre en œuvre la géo-réplication pour la haute disponibilité**
 
 ---
 

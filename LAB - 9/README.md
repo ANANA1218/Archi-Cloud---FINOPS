@@ -11,10 +11,10 @@
 
 ## Table des matières
 
-1. Déployer un équilibreur de charge Azure pour distribuer le trafic entre les VMs
-2. Configurer les sondes de santé et les règles de répartition de charge
-3. Configurer Azure Traffic Manager pour le routage du trafic basé sur DNS
-4. Tester les scénarios de basculement
+1. **Déployer un équilibreur de charge Azure pour distribuer le trafic entre les VMs**
+2. **Configurer les sondes de santé et les règles de répartition de charge**
+3. **Configurer Azure Traffic Manager pour le routage du trafic basé sur DNS**
+4. **Tester les scénarios de basculement**
 
 ---
 

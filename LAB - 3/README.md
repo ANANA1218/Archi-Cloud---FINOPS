@@ -11,10 +11,10 @@
 
 ## Table des matières
 
-1. Créer un plan de service Azure App Service 
-2. Déployer une application Web en utilisant Azure App Service
-3. Configurer des domaines personnalisés et des certificats SSL
-4. Mettre en œuvre des slots de déploiement pour la mise en scène et la production
+1. **Créer un plan de service Azure App Service**
+2. **Déployer une application Web en utilisant Azure App Service**
+3. **Configurer des domaines personnalisés et des certificats SSL**
+4. **Mettre en œuvre des slots de déploiement pour la mise en scène et la production**
 
 ---
 

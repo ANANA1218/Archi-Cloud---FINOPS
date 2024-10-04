@@ -10,10 +10,10 @@
 
 ## Table des matières
 
-1. Créer une application de fonction Azure
-2. Développer une fonction sans serveur déclenchée par une requête HTTP
-3. Intégrer la fonction avec Azure Storage ou Azure Queue
-4. Surveiller les performances et les journaux de la fonction
+1. **Créer une application de fonction Azure**
+2. **Développer une fonction sans serveur déclenchée par une requête HTTP**
+3. **Intégrer la fonction avec Azure Storage ou Azure Queue**
+4. **Surveiller les performances et les journaux de la fonction**
 
 ---
 

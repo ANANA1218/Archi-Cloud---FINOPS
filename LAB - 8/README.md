@@ -11,10 +11,10 @@
 
 ## Table des matières
 
-1. Créer une ressource de services cognitifs
-2. Développer une application qui utilise l'API d'analyse de texte
-3. Analyser le sentiment et les phrases clés à partir d'un texte d'exemple
-4. Surveiller l'utilisation de l'API et gérer les clés
+1. **Créer une ressource de services cognitifs**
+2. **Développer une application qui utilise l'API d'analyse de texte**
+3. **Analyser le sentiment et les phrases clés à partir d'un texte d'exemple**
+4. **Surveiller l'utilisation de l'API et gérer les clés**
 
 ---
 
